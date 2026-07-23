@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>For Someone Special ❤️</title>
+<title>For Sushma ❤️</title>
 
 <style>
 *{
@@ -101,8 +101,8 @@ opacity:0;
 <body>
 
 <div class="card">
-<h1>Will You Be Mine? ❤️</h1>
-<p>You are very special to me 💖</p>
+<h1>Sushma, Will You Be Mine? ❤️</h1>
+<p>Dear Sushma, You are very special to me. 💖</p>
 
 <button id="yes">Yes 💕</button>
 <button id="no">No 💔</button>
@@ -112,8 +112,8 @@ opacity:0;
 
 <div id="happy">
 <h1>YAY!! ❤️🥳</h1>
-<p>Thank You! You made my day! 💕</p>
-<h2>Forever Starts Today 💍❤️</h2>
+<p>Thank You, Sushma! You made my day! 💕</p>
+<h2>Sushma ❤️ Forever Starts Today 💍</h2>
 </div>
 
 <script>
@@ -126,7 +126,7 @@ no.onclick=function(){
 count++;
 
 if(count==1){
-msg.innerHTML="🥺 Please think again...";
+msg.innerHTML="🥺 Please think again, Sushma... ❤️";
 }
 else{
 no.style.position="fixed";
